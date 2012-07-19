@@ -1,4 +1,3 @@
-My very own Github page
-=======================
+README.md
 
-Just playing with git and Github a bit. So far it's awesome.
+Github pages, using Prose
